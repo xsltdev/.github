@@ -48,6 +48,7 @@
 - [Typescript](https://scriptdev.ru/) — [@xsltdev/scriptdev.ru](https://github.com/xsltdev/scriptdev.ru)
 - [Angular](https://angdev.ru/) — [@xsltdev/angdev.ru](https://github.com/xsltdev/angdev.ru)
 - [React](https://reactdev.ru/) — [@xsltdev/reactdev.ru](https://github.com/xsltdev/reactdev.ru)
+- [Solid.js](https://soliddev.ru/) — [@xsltdev/soliddev.ru](https://github.com/xsltdev/soliddev.ru)
 - [React Native](https://reactnativedev.ru/) — [@xsltdev/reactnativedev.ru](https://github.com/xsltdev/reactnativedev.ru)
 - [Node.js](https://nodejsdev.ru/) — [@xsltdev/nodejsdev.ru](https://github.com/xsltdev/nodejsdev.ru)
 - [Python 3](https://py3dev.ru/) — [@xsltdev/py3dev.ru](https://github.com/xsltdev/py3dev.ru)
